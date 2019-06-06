@@ -1,4 +1,4 @@
-# EventService [![Build Status](https://travis-ci.org/NCEC20182019/EventService.svg?branch=master)](https://travis-ci.org/NCEC20182019/EventService)
+# EventService [![Build Status](https://travis-ci.org/ArtemSglv/EventService.svg?branch=master)](https://travis-ci.org/ArtemSglv/EventService)
 ### Запуск
 ##### Server Port: 8092
 1. Создать БД на сервере PostgreSQL (у меня 11 версия, но, возможно, есть смысл 10 юзать)
